@@ -29,3 +29,21 @@ body{
     padding: 10px;
     margin-bottom: 10px;
 }
+.navbar{
+    text-align: center;
+    border-width: 3px;
+    border-color: black;
+    border: 3px solid black;
+    padding-bottom: auto;
+    padding-top: auto;
+    background-color: aliceblue;
+}
+.navbar a{
+margin-right: 15px;
+color: black;
+text-decoration: none ;
+
+}
+.navbar a:hover{
+    color: aqua;
+}
